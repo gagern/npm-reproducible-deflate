@@ -27,5 +27,9 @@
   "bugs": {
     "url": "https://github.com/gagern/npm-reproducible-deflate/issues"
   },
-  "homepage": "https://github.com/gagern/npm-reproducible-deflate#readme"
+  "homepage": "https://github.com/gagern/npm-reproducible-deflate#readme",
+  "engines": {
+    "node": ">=0.10",
+    "iojs": ">=1.0"
+  }
 }
